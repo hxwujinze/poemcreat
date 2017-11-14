@@ -1,0 +1,2 @@
+model_checkpoint_path: "poem-0"
+all_model_checkpoint_paths: "poem-0"
